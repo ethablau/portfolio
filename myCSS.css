@@ -11,6 +11,7 @@ body {
 	margin: 0 auto;
 }
 .header {
+	font-family: OCR A Std, monospace;
 	background: #17EBC7;
 	text-align: center;
 	margin: 0px;
